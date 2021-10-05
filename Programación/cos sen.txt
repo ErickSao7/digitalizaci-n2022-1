@@ -1,0 +1,6 @@
+%% Grafica cos + sin
+t = 0:0.01:10;
+xs_t = sin(t) + cos(t)
+
+figure
+plot(t,x)
