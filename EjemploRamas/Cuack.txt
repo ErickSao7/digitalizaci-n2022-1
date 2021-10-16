@@ -1,1 +1,10 @@
 El pato hace cuack cuack
+
+
+|Muestra|Tensión [V]|Corriente [A]|
+---------------------------------------------
+|            |                 |                   |
+|            |                 |                   |
+|            |                 |                   |
+|            |                 |                   |
+|            |                 |                   |
