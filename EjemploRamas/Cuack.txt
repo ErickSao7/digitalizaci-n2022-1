@@ -1,3 +1,13 @@
 El pato hace cuack cuack
 
+
 Responsable: Erick Sánchez
+
+
+|Muestra|Tensión [V]|Corriente [A]|
+---------------------------------------------
+|            |                 |                   |
+|            |                 |                   |
+|            |                 |                   |
+|            |                 |                   |
+|            |                 |                   |
